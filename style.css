@@ -1,0 +1,41 @@
+* {
+    margin: 0px;
+    padding: 5px;
+    text-align: center;
+    box-sizing: border-box;
+    font-family:'Times New Roman', Times, serif;
+    background-color: #fce283;
+}
+h1 {
+    text-decoration-line: underline;
+}
+
+body {
+    background-color: #fce283;
+}
+
+p {
+    background-color: antiquewhite;
+}
+
+h3 {
+    text-decoration-line: underline;
+    font-size: 1.5em;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+ul {
+    background-color: antiquewhite;
+}
+
+li {
+    background-color: antiquewhite;
+}
+
+figure {
+    display: inline-block;
+    border: 3px solid black;
+    margin: 10px;
+    background-color: #fce283;
+}
+
